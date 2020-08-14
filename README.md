@@ -1,6 +1,6 @@
 # An-Efficient-Gradient-Free-Simplex-Method-for-Image-Guided-Diffuse-Optical-Tomography
 
-Matlab Codes* : ([Requires Nirfast-7.1](http://www.dartmouth.edu/~nir/nirfast/#)):
+**Matlab Codes** : ([Requires Nirfast-7.1](http://www.dartmouth.edu/~nir/nirfast/#)):
 
 #Program for hard priors image reconstruction:- reconstruct_stnd_cw_region.m
 
